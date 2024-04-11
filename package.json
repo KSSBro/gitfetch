@@ -30,7 +30,7 @@
     "morgan": "^1.10.0",
     "node-cache": "^5.1.0",
     "node-fetch": "^3.2.10",
-    "npm": "^8.19.2"
+    "npm": "^10.5.2"
   },
   "devDependencies": {
     "@types/compression": "^1.7.0",
